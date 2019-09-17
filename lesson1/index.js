@@ -19,10 +19,4 @@ alert(name);
 // alert(name);
 //Throw error
 
-//Creating variables using let 
 
-// if(true){
-//     var name = 'Tej';
-//     alert(name);
-// }
-// alert(name);
